@@ -1,5 +1,5 @@
 # spotify-project
 
-EDA
-DB RDS AWS
-Recommendation model XGBoost
+* EDA
+* DB RDS AWS
+* Recommendation model XGBoost
